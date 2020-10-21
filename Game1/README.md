@@ -20,3 +20,4 @@ https://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-py
 
 # Game Display
 ![giphy](effect/running.gif)
+just try
